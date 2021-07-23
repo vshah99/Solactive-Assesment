@@ -6,10 +6,10 @@ class IndexModel:
         # To be implemented
         pass
 
-    def calc_index_level(self, start_date: dt.date, end_date: dt.date) -> float:
+    def calc_index_level(self, start_date: dt.date, end_date: dt.date) -> None:
         # To be implemented
         pass
 
-    def export_values(self, file_name: str):
+    def export_values(self, file_name: str) -> None:
         # To be implemented
         pass
