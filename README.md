@@ -52,3 +52,5 @@ with. Please make sure to update the requirements.txt file accordingly.
 # Submission
 We are happy to see your project. If not already agreed otherwise, please send us your project 
 as a link to your GitHub repo via mail to jobs@solactive.com. 
+
+Please make sure that you clone the project instead of forking it.
